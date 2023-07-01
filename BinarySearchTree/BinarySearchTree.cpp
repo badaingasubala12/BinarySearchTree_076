@@ -120,11 +120,7 @@ public:
 };
 
 
-
-
-
-int main()
-{
+int main(){
 	BinaryTree obj;
 	while (true)
 	{
